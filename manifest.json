@@ -1,0 +1,25 @@
+{
+	"manifest_version": 2,
+
+	"name": "QuickMDN",
+	"description": "This extension searches the highlighted keyword in Mozilla Developer Network.",
+
+	"version": "0.1",
+
+	"permissions": [
+		"https://developer.mozilla.org/en-US", 
+		"contextMenus"
+	],
+
+	"icons": {
+		"16": "icon-16.png",
+		"32": "icon-32.png",
+		"64": "icon-64.png"
+	},
+
+	"background": {
+		"scripts": [
+			"main.js"
+		]
+	}
+}
