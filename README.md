@@ -1,9 +1,10 @@
 Chrome-Extension-QuickMDN
 =========================
-QuickMDN
+### What is it? 
+QuickMDN is a chrome extension that returns a search result from Mozilla Developer Network.
 
-What is it? 
-QuickMDN is a chrome extension that returns a search result from Mozilla Developer Network if it is a valid keyword.
+### How to use?
+Simply highlight a word and right-click on it, there will be an option to search the word in MDN. A new tab will open containing your search results.
 
-How is it useful? 
-Its mundane and tedious to search for keywords by typing it in the MDN search tab. QuickMDN helps you automate this task within hardly 2 clicks.
+### How is it useful? 
+Its probably not. It was an excuse for me to check out Chrome Extension's API. 
