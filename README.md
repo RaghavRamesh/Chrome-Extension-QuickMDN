@@ -9,5 +9,4 @@ Simply highlight a word and right-click on it, there will be an option to search
 ### How to obtain?
 QuickMDN is available at the Chrome Web Store - [link](https://chrome.google.com/webstore/detail/quickmdn/hnknnidekbnlnhjjhbailbnmfdhomfgk ). Star this repo or rate the extension on the web store if you like it! :) 
 
-### How is it useful? 
-Its probably not. :D It was an excuse for me to check out Chrome Extension's API. 
+##### Weekly users: 19
